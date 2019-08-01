@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-device",
-  "version": "2.0.4-dev",
-  "description": "Cordova Device Plugin",
+  "name": "cordova-plugin-kord-device",
+  "version": "1.0.0-dev",
+  "description": "Cordova KORD Device Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-device",
+    "id": "cordova-plugin-kord-device",
     "platforms": [
       "android",
       "ios",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-device"
+    "url": "https://github.com/avigdorsusana/cordova-plugin-kord-device.git"
   },
   "bugs": {
     "url": "https://issues.apache.org/jira/browse/CB"
